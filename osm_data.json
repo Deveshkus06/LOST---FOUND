@@ -1,0 +1,291 @@
+[
+  {
+    "type": "node",
+    "id": 10855713790,
+    "lat": 27.6019867,
+    "lon": 77.5934671,
+    "tags": {
+      "amenity": "restaurant",
+      "check_date": "2023-04-29",
+      "cuisine": "indian",
+      "name": "Thakur Bhawna Family Dhaba"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10855713791,
+    "lat": 27.6042284,
+    "lon": 77.5921497,
+    "tags": {
+      "amenity": "restaurant",
+      "check_date": "2023-04-29",
+      "cuisine": "indian",
+      "name": "Gajendra Dhaba"
+    }
+  },
+  {
+    "type": "way",
+    "id": 930127778,
+    "center": {
+      "lat": 27.6058535,
+      "lon": 77.5934114
+    },
+    "tags": {
+      "building": "university",
+      "building:levels": "4",
+      "name": "AB1",
+      "smoking": "no"
+    }
+  },
+  {
+    "type": "way",
+    "id": 930127779,
+    "center": {
+      "lat": 27.606379,
+      "lon": 77.5942812
+    },
+    "tags": {
+      "leisure": "park",
+      "name": "KC GROUND",
+      "opening_hours": "sunrise-sunset"
+    }
+  },
+  {
+    "type": "way",
+    "id": 930127781,
+    "center": {
+      "lat": 27.6061443,
+      "lon": 77.5929219
+    },
+    "tags": {
+      "building": "university",
+      "building:levels": "6",
+      "name": "AB II"
+    }
+  },
+  {
+    "type": "way",
+    "id": 930269655,
+    "center": {
+      "lat": 27.6034571,
+      "lon": 77.5979109
+    },
+    "tags": {
+      "building": "yes",
+      "guest_house": "hostel",
+      "internet_access": "yes",
+      "internet_access:fee": "no",
+      "name": "Girls Hostel",
+      "rooms": "200",
+      "tourism": "hostel"
+    }
+  },
+  {
+    "type": "way",
+    "id": 930294555,
+    "center": {
+      "lat": 27.6040363,
+      "lon": 77.6004804
+    },
+    "tags": {
+      "highway": "residential",
+      "maxspeed": "20",
+      "name": "I&J block",
+      "surface": "concrete"
+    }
+  },
+  {
+    "type": "way",
+    "id": 930294556,
+    "center": {
+      "lat": 27.6035092,
+      "lon": 77.6004372
+    },
+    "tags": {
+      "highway": "residential",
+      "name": "I&J MESS"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1370782459,
+    "center": {
+      "lat": 27.6065157,
+      "lon": 77.595524
+    },
+    "tags": {
+      "building": "yes",
+      "name": "AB 7"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1370782460,
+    "center": {
+      "lat": 27.6063512,
+      "lon": 77.5957426
+    },
+    "tags": {
+      "building": "yes",
+      "name": "AB 8"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1370782461,
+    "center": {
+      "lat": 27.6061411,
+      "lon": 77.5949034
+    },
+    "tags": {
+      "building": "yes",
+      "name": "AB 3"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1370782462,
+    "center": {
+      "lat": 27.6045404,
+      "lon": 77.5971517
+    },
+    "tags": {
+      "building": "retail",
+      "name": "GD Subway"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1370782463,
+    "center": {
+      "lat": 27.6050264,
+      "lon": 77.5927952
+    },
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "MAIN CANTEEN"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1370782464,
+    "center": {
+      "lat": 27.6029265,
+      "lon": 77.5953981
+    },
+    "tags": {
+      "building": "yes",
+      "name": "AB 9"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1370782465,
+    "center": {
+      "lat": 27.6032842,
+      "lon": 77.5959404
+    },
+    "tags": {
+      "building": "yes",
+      "name": "AB 10"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1370782466,
+    "center": {
+      "lat": 27.6031208,
+      "lon": 77.5956856
+    },
+    "tags": {
+      "building": "yes",
+      "name": "AB 11"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1370782467,
+    "center": {
+      "lat": 27.6038591,
+      "lon": 77.5992022
+    },
+    "tags": {
+      "building": "residential",
+      "name": "BOYS WINGS"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1370782468,
+    "center": {
+      "lat": 27.6055333,
+      "lon": 77.5954272
+    },
+    "tags": {
+      "building": "yes",
+      "name": "AB 4"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1370782469,
+    "center": {
+      "lat": 27.6052432,
+      "lon": 77.595634
+    },
+    "tags": {
+      "building": "yes",
+      "name": "AB 5"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1370782470,
+    "center": {
+      "lat": 27.6048194,
+      "lon": 77.5959432
+    },
+    "tags": {
+      "building": "yes",
+      "name": "AB 6"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1370782471,
+    "center": {
+      "lat": 27.6069072,
+      "lon": 77.5948829
+    },
+    "tags": {
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "name": "DISPANSERY"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1370782472,
+    "center": {
+      "lat": 27.6054066,
+      "lon": 77.5946042
+    },
+    "tags": {
+      "leisure": "park",
+      "name": "NINAD GROUND"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1370809634,
+    "center": {
+      "lat": 27.601781,
+      "lon": 77.5968221
+    },
+    "tags": {
+      "building": "yes",
+      "name": "AB 12"
+    }
+  }
+]

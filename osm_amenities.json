@@ -1,0 +1,92 @@
+[
+  {
+    "type": "node",
+    "id": 10855713790,
+    "lat": 27.6019867,
+    "lon": 77.5934671,
+    "tags": {
+      "amenity": "restaurant",
+      "check_date": "2023-04-29",
+      "cuisine": "indian",
+      "name": "Thakur Bhawna Family Dhaba"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10855713791,
+    "lat": 27.6042284,
+    "lon": 77.5921497,
+    "tags": {
+      "amenity": "restaurant",
+      "check_date": "2023-04-29",
+      "cuisine": "indian",
+      "name": "Gajendra Dhaba"
+    }
+  },
+  {
+    "type": "way",
+    "id": 930127779,
+    "center": {
+      "lat": 27.606379,
+      "lon": 77.5942812
+    },
+    "tags": {
+      "leisure": "park",
+      "name": "KC GROUND",
+      "opening_hours": "sunrise-sunset"
+    }
+  },
+  {
+    "type": "way",
+    "id": 930127780,
+    "center": {
+      "lat": 27.6057653,
+      "lon": 77.5923975
+    },
+    "tags": {
+      "access": "permit",
+      "amenity": "parking",
+      "capacity:disabled": "20",
+      "parking": "surface",
+      "surface": "concrete"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1370782463,
+    "center": {
+      "lat": 27.6050264,
+      "lon": 77.5927952
+    },
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "name": "MAIN CANTEEN"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1370782471,
+    "center": {
+      "lat": 27.6069072,
+      "lon": 77.5948829
+    },
+    "tags": {
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "name": "DISPANSERY"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1370782472,
+    "center": {
+      "lat": 27.6054066,
+      "lon": 77.5946042
+    },
+    "tags": {
+      "leisure": "park",
+      "name": "NINAD GROUND"
+    }
+  }
+]
